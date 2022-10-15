@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pdychinco
 - 👀 I’m interested in AI/ML and Software Development
-- 🌱 I’m currently learning C and OO
+- 🌱 I’m currently learning C and OOP
 
 <!---
 pdychinco/pdychinco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
